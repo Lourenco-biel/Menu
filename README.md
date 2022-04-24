@@ -46,6 +46,5 @@ Este projeto trata-se de um menu com cores vivas e animações! Espero que tenha
 <br>
 
 
+[⬆ Voltar ao topo](#Menu-animado)<br>
 
-
-<a href='#topo'>[⬆ Voltar ao topo]</a>
