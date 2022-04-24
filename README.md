@@ -9,7 +9,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma menu com cores vivas e animações! Espero que tenha curtido  😉
+Este projeto trata-se de um menu com cores vivas e animações! Espero que tenha curtido  😉
 
 <br>
 
